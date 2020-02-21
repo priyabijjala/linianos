@@ -1,4 +1,4 @@
-# linianos
+# Linianos
 
 program that prints all the numbers from 1 to 100. However, for
 
