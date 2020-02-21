@@ -15,7 +15,7 @@ operators or `else`.
 
 # Steps 
 
-git clone git@github.com:valeriabarros/linianos.git
+git clone https://github.com/priyabijjala/linianos.git
 
 cd linianos
 
